@@ -1,0 +1,3 @@
+Hello, this is CodTech Internship Task 1.
+This program demonstrates file handling in Java.
+This line was added later as modification.
